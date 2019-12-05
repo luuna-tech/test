@@ -4,9 +4,11 @@
 
 # Description:
 
-- Make a REST API that manage users.
 - You can use Python or Node.js to build it.
+- Make a REST API that manage users and catalog of products.
+- To manage auth use JWT.
 - Send notifications to user when create an account, update his info, delete his account.
+- The catalog can do CRUD operations on products, even apply discounts over product price.
 - For example purpose you can send notifications on console.
 - Write some documentation to run your app on local stage.
 
