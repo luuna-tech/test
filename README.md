@@ -1,19 +1,10 @@
-You need to create a django project to manage admins of our admin panel.
+![Luuna Logo](https://luuna-bucket.imgix.net/img/header-logo.svg?auto=compress,format)
 
-The objective of the project is to provide the users a means to use the same platform in a restricted manner.
-Only users with a permission to modify or view data will be able to modify or view it.
+# Admission Test
 
-1. You need to creat 2 db tables. Use mysql/mariadb:
-```
-  i. Users table: It will contain all the users
-  ii. Addresses table: It will contain addresses of users
-```
+Luuna is currently looking to for developers. You are thrilled about e-commerce and software? You dream of joining a passionate crew? You like being challenged and learning on a daily basis? If you are looking to further and/or jumpstart your career as software engineer, then Luuna may be your place
 
-2. You need to create 3 different users:
-```
-  i. Admin user: He is going to have all the accesses to CRUD both the tables 
- ii. Staff user: He can view both user and adresses views but can only CRUD addresses.
-iii. Customer service user: He can view just the addresses table, but cannot do anything else.
-```
+### Tests:
 
-PS: There is no need to beautify the project. It should be simple and functional.
+- [Backend Developer Test](backend/README.md)
+- [Frontend Developer Test](frontend/README.md)
