@@ -1,6 +1,6 @@
 ![Luuna Logo](https://luuna-bucket.imgix.net/img/header-logo.svg?auto=compress,format)
 
-# Backend Technical Test
+# Frontend Technical Test
 
 # Description:
 
