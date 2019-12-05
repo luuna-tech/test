@@ -10,7 +10,7 @@
 - For example purpose you can send notifications on console.
 - Write some documentation to run your app on local stage.
 
-## Diferencial:
+## Differential:
 
 - Correctly use of Git (descriptive commits, clearly PR's)
 - Use Mailchimp, AWS SES or others API's to send emails
