@@ -2,15 +2,14 @@
 
 # Backend Technical Test
 
-# Description:
+# Description of the task:
 
-- You can use Python or Node.js to build it.
-- Make a REST API that manage users and catalog of products.
-- To manage auth use JWT.
-- Send notifications to user when create an account, update his info, delete his account.
-- The catalog can do CRUD operations on products, even apply discounts over product price.
-- For example purpose you can send notifications on console.
-- Write some documentation to run your app on local stage.
+- Make a REST API to administer Users and Products. A User should have basic info such as email, name and password. A Product should have basic info such as name, price and brand.
+- This app should authenticate the Users and allow then to do CRUD operations on Products such as changing the name, brand and adjusting prices.
+- You should manage auth through JWT.
+- The app should as well send notifications to User when creating an account, updating his/her info, deleting his/her account.
+
+Please write some documentation to run your app. Please use Python, NodeJS and a database of your choice.
 
 ## Differential:
 
