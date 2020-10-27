@@ -12,7 +12,7 @@ These routes must have a search bar and the search results must appear on the sa
 
 - React
 - React Router
-- Redux-Saga
+- Redux
 - Axios or Request
 - Bootstrap 4 or Bulma
 - Mobile first experience, it can be responsive or reactive website
@@ -20,6 +20,7 @@ These routes must have a search bar and the search results must appear on the sa
 ## Differential:
 
 - Styled Components
+- Redux-Saga
 - Using React Hooks for lifecycle
 - Using Immutable for state managment
 - Implementing Next.js for server side rendering
