@@ -8,3 +8,4 @@ Luuna is currently looking to for developers. You are thrilled about e-commerce 
 
 - [Backend Developer Test](backend/README.md)
 - [Frontend Developer Test](frontend/README.md)
+- [DevOps Test](devops/README.md)
