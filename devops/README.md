@@ -5,7 +5,7 @@
  1. Crear una API REST simple y que sea desplegada sobre Kubernetes en AWS.
  2. Tanto los códigos de la API y del despliegue de esta deben ser publicados en un repositorio en Github.
  3. Deberá incluir un `Readme` donde explique su solución, además de incluir las instrucciones para tener acceso a la API desplegada.
- 3. Tendrá cinco días para completar y enviar la solución.
+ 4. Tendrá 72 horas para completar y enviar la solución.
 
 
 ## Restricciones Técnicas
@@ -29,7 +29,7 @@ Product:
     - price
     - description
 ```
-Adicionalmente la aplicación tendrá la existencia de un tipo de usuario `Admins`, que pueden hacer CRUD sobre los productos.
+Adicionalmente la aplicación tendrá la existencia de un tipo de usuario `Admin`, que pueden hacer CRUD sobre los productos.
 
 - La aplicación puede ser desarrollada en cualquier lenguaje de programación.
 - La aplicación debe estar documentada, tanto su uso como su despliegue.
