@@ -1,4 +1,4 @@
-![Luuna Logo](https://luuna-bucket.imgix.net/img/header-logo.svg?auto=compress,format)
+<img src="https://zebrands.mx/wp-content/uploads/2021/07/WEB-ZEB-05-1-1024x291.png" width="300">
 
 # Fullstack Technical Test
 
