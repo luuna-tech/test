@@ -13,3 +13,6 @@ services:
 
     volumes:
       - ./sql/script.sql:/docker-entrypoint-initdb.d/script.sql
+
+  python:
+    image: python
