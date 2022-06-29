@@ -11,8 +11,5 @@ services:
       POSTGRES_PASSWORD: postgres
     command: -p 5433
 
-    volumes:
-      - ./sql/script.sql:/docker-entrypoint-initdb.d/script.sql
-
   python:
     image: python
