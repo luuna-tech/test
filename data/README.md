@@ -24,6 +24,8 @@ To have better control, we want to have a general dashboard where we can visuali
    **Expected deliverable**: An architecture diagram along with an explanation and justification of your proposal.
 
 2. As a proof of concept, implement a web scraper that can automatically gather the price and availability information of every version of the "Colchón Luuna Original" on a marketplace of your choice. The scraper should be scheduled to run once a day and store the data in a structured format on a platform of your choice. 
+
+   Please pay special attention to the details while implementing the web scraper, focusing on aspects such as code quality, versioning, modularity, and maintainability, along with other essential software engineering principles. Although this project serves as a proof of concept in terms of scope, we anticipate a solution that meets production-quality standards.
    
    For your convienence, we have provided links to the product on some marketplaces below (we only require that you implement the web scraper on one platform):
     - Amazon: https://www.amazon.com.mx/Luuna-Colch%C3%B3n-Memory-L%C3%A1tex-Matrimonial/dp/B019YBYBSC
