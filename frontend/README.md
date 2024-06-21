@@ -2,10 +2,10 @@
 
 # Frontend Technical Test
 
-Hello! Thanks for your interest in applying to ZeBrands.
+Hello! Thanks for your interest in applying to Zebrands.
 As a part of the recruiting process, we ask you to complete this task as a way for you to showcase your abilities and knowledge.
 
-# Description:
+# Description
 
 Develop an application that uses the Github API for searching users and repositories and showing the results in a nice way.
 The application must have at least 2 routes: _user search_ and _repositories search_ with the corresponding navigation.
@@ -25,19 +25,7 @@ We are going to evaluate these dimensions:
 
 ## Technical Requirements:
 
-Please use the following technologies:
-
-- ReactJS using functional components
-- React Hooks for lifecycle management
-- The state management system of your choice
-- Axios or Request
-- Bootstrap 4, Bulma or Materialize
-
-If you want to stand out by going the extra mile, you could do some of the following:
-- Add tests for your code
-- Use Styled Components
-- Implemen Next.js for server side rendering
-- Create an awesome user experience
+Please use React as the base library for this challenge. Beyond that, you are free to use any additional libraries or technologies of your choice.
 
 
 ## Delivering your solution
